@@ -1,22 +1,22 @@
-# Zhiné (知你) - Personal Cognitive Companion
+# Zhiné（知你）- Personal Cognitive Companion
 
 > **Beyond understanding. / 不止于懂你。**
 
-## 📌 项目定位 (Project Orientation)
-Zhiné 是一个面向个人认知伴侣的开放、可演进认知架构。我们拒绝将用户数据锁定在云端平台，并坚信：**每个人都应拥有一个本地、私有、可迁移、可治理、可持续成长的个人认知模型。**
+## 📌 Project Orientation
+Zhiné（知你）is an open, evolvable cognitive architecture designed for Personal Cognitive Companions. We reject locking user data into monolithic cloud ecosystems. We advocate that **every person should own a local, private, portable, governed, and continuously evolving personal cognitive model.**[cite: 1]
 
-> ⚠️ **风险与边界声明 (Risk & Boundary Statement)**
-> Zhiné 是一个面向个人认知资产的开放基础设施，我们**不宣称、不试图、也不可能**复制意识、人格或数字灵魂。系统运行严格遵守人类主权，自训练过程完全受控且可回滚。
+> ⚠️ **Risk & Boundary Statement**
+> Zhiné（知你）is a personal cognitive asset infrastructure[cite: 1]. We **do not claim, attempt, or intend to** replicate consciousness, personality, or digital souls[cite: 1]. The system operates strictly under human sovereignty, and all self-training processes are controlled, evaluated, and rollbackable[cite: 1].
 
-## 🛠️ 技术主张 (Technical Proposition)
-* **Local First**: 个人数据、记忆与训练候选数据默认本地保存。
-* **Personal Model Ownership**: 用户对记忆、知识库、技能图谱、LoRA 适配层拥有绝对主权。
-* **Open Architecture**: 模型无关（Model-agnostic）、存储无关（Storage-agnostic）。
+## 🛠️ Core Technical Propositions
+* **Local First**: Personal data, personal memories, and training candidate samples default to local storage (`Local by default. Cloud by permission.`)[cite: 1].
+* **Personal Model Ownership**: Users exercise absolute sovereignty over their memories, knowledge bases, skill graphs, strategy libraries, and model adapter layers (such as LoRAs)[cite: 1].
+* **Open Architecture**: Completely model-agnostic, tool-agnostic, and storage-agnostic[cite: 1].
 
-## 🗺️ 路线图 (Phase 1 验证方向)
-当前项目处于 **Phase 1 (最小可运行原型)** 阶段，正在验证以下核心闭环：
-`个人记忆 + 个人知识库 + 本地模型 + 远端增强 + 经验抽取 + 技能沉淀 = 下次复用`
+## 🗺️ Roadmap (Phase 1 Validation Focus)
+The project is currently in **Phase 1: Minimal Viable Prototype (MVP)**[cite: 1]. We are actively validating the following core closed loop:
+`Personal Memory + Personal RAG + Local LLM + Remote Teacher Expansion + Experience Extraction + Skill Accrual = Next-time Reuse.`[cite: 1]
 
-## 📄 许可证 (License)
-* 核心代码：[Apache License 2.0](LICENSE)[cite: 1]
-* 架构规范与文档：[CC BY 4.0](docs/README.md)[cite: 1]
+## 📄 License
+* **Core Code Engine**: [Apache License 2.0](LICENSE)[cite: 1]
+* **Architecture Specs & Documentation**: [Creative Commons Attribution 4.0 (CC BY 4.0)](docs/README.md)[cite: 1]
